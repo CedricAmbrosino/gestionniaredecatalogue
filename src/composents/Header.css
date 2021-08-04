@@ -1,0 +1,28 @@
+.header_content{
+    width: 85%;
+    height: 90%;
+    margin: 20px 0px 0px 20px;
+}
+
+.header_content_OpenText{
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+
+.header_content_h1{
+    font-size: 3.9rem;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 3.85rem;
+    text-transform: uppercase;
+    margin: 8px 0 27px 0;
+}
+
+.header_content_description{
+    font-size: 1.1rem;
+    font-style: italic;
+    letter-spacing: 0.02em;
+}
+

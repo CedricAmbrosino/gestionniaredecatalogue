@@ -1,0 +1,57 @@
+.catalogueSection_content{
+    width: 500px;
+    height: 580px;
+    margin-top: 20px;
+    border: 8px solid var(--colorGreyBlack);
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    overflow-y: scroll;
+}
+
+.btnProduct{
+    display: inline-block;
+    width: 22px;
+    line-height: 22px;
+    height:22px;
+    text-align: center;
+}
+
+.btnCross{
+    width: 25px;
+    line-height: 25px;
+    height:25px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.catalogueSection_content_element{
+    margin-bottom: 10px;
+}
+
+.catalogueSection_content_element_line{
+    width:45%;
+}
+
+.catalogueSection_content_element_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.catalogueSection_content_element_title > div{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.catalogueSection_content_quantity{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.catalogueSection_content_quantity > div{
+    display: flex;
+    gap: 10px;
+}
+
